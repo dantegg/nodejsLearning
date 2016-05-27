@@ -8,4 +8,5 @@ nodejs Learning
 
 
 >use telnet to communicate with nodejs server or other clients
->>improve chat project by 2.7.js 2016/5/26
+>>improve chat project by 2.7.js 2016/5/26<br>
+>>improve chat project by 2.10_2.12.js 2016/5/27
