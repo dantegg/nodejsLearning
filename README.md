@@ -9,4 +9,8 @@ nodejs Learning
 
 >use telnet to communicate with nodejs server or other clients
 >>improve chat project by 2.7.js 2016/5/26<br>
->>improve chat project by 2.10_2.12.js 2016/5/27
+>>improve chat project by 2.10_2.12.js 2016/5/27<br>
+
+>start learning express<br>
+>>first express project 2.14.js 2015-5-27<br>
+>>>createServer() is not used any longer !!!
