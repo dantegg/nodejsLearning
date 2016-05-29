@@ -13,4 +13,6 @@ nodejs Learning
 
 >start learning express<br>
 >>first express project 2.14.js 2015-5-27<br>
->>>createServer() is not used any longer !!!
+>>>createServer() is not used any longer !!!<br>
+>>second express project 2.15.js 2015-5-29<br>
+>>>express.bodyParser is replaced by bodyParser
